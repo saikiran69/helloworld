@@ -1,0 +1,13 @@
+ Volume in drive C is Sai 
+ Volume Serial Number is 922C-8D05
+
+ Directory of C:\Users\sai kiran\Desktop\Java_project1
+
+14-12-2017  19:08    <DIR>          .
+14-12-2017  19:08    <DIR>          ..
+14-12-2017  19:06               900 Hello.class
+14-12-2017  17:10               178 Hello.java
+14-12-2017  19:07               444 sai.txt
+14-12-2017  19:08                 0 sup.txt
+               4 File(s)          1,522 bytes
+               2 Dir(s)  16,926,334,976 bytes free
